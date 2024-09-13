@@ -13,10 +13,10 @@
 
 | Time                  | Employer                 | Position                | Projects                                                                         |
 | --------------------- | ------------------------ | ----------------------- | -------------------------------------------------------------------------------- |
-| 2024-04 until present | University of Passau     | Student Assistant       | [ls1intum/Artemis](https://github.com/ls1intum/Artemis), [uni-passau-artemis/pipeline-helper](https://github.com/uni-passau-artemis/pipeline-helper) |
+| 2024-04 until 2024-09 | University of Passau     | Student Assistant       | [ls1intum/Artemis](https://github.com/ls1intum/Artemis), [uni-passau-artemis/pipeline-helper](https://github.com/uni-passau-artemis/pipeline-helper) |
 
 🇩🇪 Das ist mein privater Account, aber ich nutze ihn auch manchmal für bezahlte Arbeit. Die bezahlten Tätigkeiten sind hier gelistet.
 
 | Zeitraum              | Arbeitgeber              | Position                | Projekte                                                                         |
 | --------------------- | ------------------------ | ----------------------- | -------------------------------------------------------------------------------- |
-| 2024-04 bis heute     | Universität Passau       | Studentische Hilfskraft | [ls1intum/Artemis](https://github.com/ls1intum/Artemis), [uni-passau-artemis/pipeline-helper](https://github.com/uni-passau-artemis/pipeline-helper) |
+| 2024-04 bis 2024-09   | Universität Passau       | Studentische Hilfskraft | [ls1intum/Artemis](https://github.com/ls1intum/Artemis), [uni-passau-artemis/pipeline-helper](https://github.com/uni-passau-artemis/pipeline-helper) |
